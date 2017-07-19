@@ -1,5 +1,21 @@
 #sec01{
-
+background-image: url("../images/bg-demo.jpg");
+height: 100vh;
+}
+#sec01 .rowSTYLE{
+	height: 80px;
+	background: rgba(0, 0, 0, 0.3);
+}
+#sec01 .customstyle{
+	margin-top: 200px;
+	font-size: 30px;
+	color: white;
+}
+ #sec01 .customstyle>h1{
+ 	font-size: 50px;
+ }
+ #sec01 .customstyle>p{
+	font-size: 25px;
 }
 #sec02{
 	
