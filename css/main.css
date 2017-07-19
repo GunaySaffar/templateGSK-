@@ -1,31 +1,27 @@
-#sec01{
-width: 100px;
-background: red;
-}
-#sec02{
-	
-}
 #sec03{
-	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
 }
-#sec04{
-	
+#sec03 .main{
+	margin-top: 60px;
 }
-#sec05{
-	
+#sec03 p{
+	color: #6b7c93;
 }
-#sec06{
-	
+#sec03 .work h2 span{
+	display: block;
+    height: 2px;
+    margin: 20px auto 0;
+    width: 80px;
+	background-color: #31ddb7;
 }
-#sec07{
-	
+#sec03 .opisanie{
+	margin-top: 10px;
+	margin-bottom: 40px;
 }
-#sec08{
-	
+#sec03 .photodesc p{
+	margin-bottom: 30px;
 }
-#sec09{
-	
-}
-#sec10{
-	
+#sec03 .imageSec img{
+	width: 100%;
 }
