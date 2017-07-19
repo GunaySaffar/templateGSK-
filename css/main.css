@@ -3,7 +3,37 @@ width: 100px;
 background: red;
 }
 #sec02{
+		background: lightgray;
+		height:800px;
+		width:100%;
+	    font-family: 'Open Sans', sans-serif;
+	    position: relative;
+	    text-align: center;
+		
+}
+#sec02 h1{
+		text-align:center;
+		padding-top:100px;
 	
+		
+}
+#sec02 span{
+	 	height:3px;
+	 	width:5%;
+	 	background:#31ddb7;
+	 	position:absolute;	
+	 	margin:10px -35px 30px; 
+
+
+}
+ #sec02 p{
+ 		text-align:center;
+ 		padding-top:30px;
+ 		margin-bottom:100px; 
+ }
+
+#sec02 col-md-4 i {
+		
 }
 #sec03{
 	
